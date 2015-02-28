@@ -205,6 +205,7 @@ public class EventListener implements Listener {
     itemMap.remove(Integer.valueOf(hash));
     if (result == null) {
       e.setResult(source);
+      return;
     }
     e.setResult(result);
   }
