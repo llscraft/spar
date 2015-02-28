@@ -198,6 +198,7 @@ public class EventListener implements Listener {
       fuelMap.remove((Integer.valueOf(hash)));
       itemMap.remove(Integer.valueOf(hash));
       e.setResult(source);
+      //助手
       return;
     }
     ItemStack result=ItemUtil.addPunch(source);
