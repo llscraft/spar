@@ -1,0 +1,30 @@
+id:
+  276
+晶石: 264
+打孔符: 打孔符
+未打孔: 未打孔
+已打孔: 已打孔
+幸运符: 啊1
+高级幸运符: 啊2
+幸运符几率: 1
+高级幸运符几率: 2
+幸运符格式: 啊3
+保护符: 啊4
+保护符格式: 啊5
+Attribute:
+  damage: 2
+  health: 2
+  armour: 2
+  reduction: 2
+  dodge: 2
+  critChance: 2
+  lifesteal: 2
+  lifestealheal: 2
+Name:
+  damage_name: 黄晶石
+  health_name: 红晶石
+  armour_name: 绿晶石
+  reduction_name: 青晶石
+  dodge_name: 蓝晶石
+  critChance_name: 橙晶石
+  lifesteal_name: 紫晶石

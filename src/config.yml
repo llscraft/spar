@@ -1,0 +1,39 @@
+id:
+  - 276
+charm:
+  - 255
+晶石: 264
+打孔: 266
+打孔符: '&c&b打孔符'
+未打孔: '&c&b打孔符'
+已打孔: '&c&b打孔符'
+幸运符: '&c&b打孔符'
+高级幸运符: '&c&b打孔符'
+幸运符几率: 1
+高级幸运符几率: 2
+幸运符格式: '&c&b打孔符'
+保护符: '&c&b打孔符'
+保护符格式: '&c&b打孔符'
+镶嵌几率: 20
+第一孔几率: 100
+第二孔几率: 75
+第三孔几率: 50
+打孔失败提示: 打孔失败
+镶嵌失败提示: 镶嵌失败
+Attribute:
+  damage: 2
+  health: 2
+  armour: 2
+  reduction: 2
+  dodge: 2
+  critChance: 2
+  lifesteal: 2
+  lifestealheal: 2
+Name:
+  damage_name: 黄晶石
+  health_name: 红晶石
+  armour_name: 绿晶石
+  reduction_name: 青晶石
+  dodge_name: 蓝晶石
+  critChance_name: 橙晶石
+  lifesteal_name: 紫晶石
